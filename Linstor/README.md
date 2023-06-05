@@ -10,3 +10,5 @@ The company behing the software used here are:
 
 LINBIT      https://linbit.com/
 Proxmox     https://www.proxmox.com/
+
+<img src="https://linbit.com/wp-content/uploads/2021/07/linstor.png" alt="DRBD-img1"> <img src="https://linbit.com/wp-content/uploads/2020/03/DRBD-Diagram.jpg" alt="DRBD-img2" width="650">
